@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "collectionId": "electrical-licensing-nec",
+  "generatedAt": "2026-10-25",
+  "sources": [
+    {
+      "id": "nec-2023",
+      "title": "NFPA 70, National Electrical Code (Article 100 definitions and referenced articles)",
+      "publisher": "National Fire Protection Association (NFPA)",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70",
+      "type": "standard",
+      "license": "proprietary (free read-only access via NFPA)",
+      "accessed": "2026-10-25",
+      "status": "parsed",
+      "locatorScheme": "cl.<n>",
+      "notes": "NEC article/section clauses. Free registration required to read; no text is reproduced in this repo."
+    }
+  ]
+}

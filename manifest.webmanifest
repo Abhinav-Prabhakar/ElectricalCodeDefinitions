@@ -1,0 +1,68 @@
+{
+  "id": "/ElectricalCodeDefinitions/",
+  "name": "one·liners — Electrical Code (NEC)",
+  "short_name": "NEC",
+  "description": "NEC electrical licensing vocabulary one line at a time: 220 definitions on wiring methods, overcurrent protection, grounding and bonding, GFCI/AFCI and load calculations, with adaptive two-way quizzes.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f5f2",
+  "theme_color": "#f5f5f2",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/screenshot-home-light.png",
+      "sizes": "1440x1000",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Today, activity and subject mastery — Electrical Code (NEC)"
+    },
+    {
+      "src": "assets/screenshot-quiz-dark.png",
+      "sizes": "1440x1000",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "A two-way quiz with explanations and live mastery"
+    },
+    {
+      "src": "assets/screenshot-mobile-light.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "one·liners on a phone"
+    }
+  ]
+}

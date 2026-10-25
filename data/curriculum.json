@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-25",
+  "collection": {
+    "id": "electrical-licensing-nec",
+    "name": "Electrical Licensing (NEC)",
+    "tagline": "Electricity, in one line.",
+    "topic": "Electrical licensing (NEC) for electrician apprentices and journeyman exam candidates",
+    "audience": "Electrician apprentices and journeyman exam candidates",
+    "level": "intro",
+    "jurisdiction": "US",
+    "disclaimer": "Educational vocabulary only; not electrical advice or code compliance guidance."
+  },
+  "coverage": {
+    "sections": 1,
+    "subjects": 5,
+    "definitions": 220,
+    "sources": 1
+  },
+  "semesters": [
+    {
+      "id": "core",
+      "label": "Core",
+      "status": "complete",
+      "subjects": [
+        {
+          "id": "conductors-wiring-methods",
+          "name": "Conductors and Wiring Methods",
+          "shortName": "Conductors and wiring",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/conductors-wiring-methods.json",
+          "definitionCount": 48,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "overcurrent-protection",
+          "name": "Overcurrent Protection",
+          "shortName": "Overcurrent protection",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/overcurrent-protection.json",
+          "definitionCount": 40,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "grounding-bonding",
+          "name": "Grounding and Bonding",
+          "shortName": "Grounding and bonding",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/grounding-bonding.json",
+          "definitionCount": 47,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "gfci-afci",
+          "name": "GFCI and AFCI",
+          "shortName": "GFCI and AFCI",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/gfci-afci.json",
+          "definitionCount": 40,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "load-calculations",
+          "name": "Load Calculations",
+          "shortName": "Load calculations",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/load-calculations.json",
+          "definitionCount": 45,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        }
+      ]
+    }
+  ]
+}
